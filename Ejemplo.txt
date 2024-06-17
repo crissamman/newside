@@ -1,0 +1,15 @@
+
+Ejemplo:
+Supongamos que lanzaste una campaña de marketing digital para promocionar un nuevo producto. 
+Durante la fase de implementación, asignaste un presupuesto específico para anuncios en redes sociales y un equipo 
+interno se encargó de monitorear y optimizar las campañas diariamente según los datos en tiempo real.
+
+En la fase de control, monitoreaste métricas como el número de impresiones, clics, conversiones y coste 
+por conversión. Observaste que los anuncios en ciertas plataformas estaban generando un ROI positivo, 
+mientras que otros no estaban alcanzando las expectativas. Basado en estos datos, ajustaste el presupuesto
+ realocando más fondos a los anuncios efectivos y haciendo cambios en el diseño y mensaje de los menos 
+ efectivos.
+
+En resumen, la implementación y control efectivos son esenciales para maximizar el éxito de tus
+ estrategias de marketing, asegurando que estás utilizando tus recursos de manera eficiente y alcanzando tus
+ objetivos empresariales.

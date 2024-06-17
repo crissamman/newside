@@ -1,0 +1,16 @@
+Control:
+El control se refiere a la supervisión continua y la evaluación del desempeño de las actividades de marketing.
+ Aquí se emplean métricas y análisis para asegurarse de que se están alcanzando los objetivos y para hacer 
+ ajustes cuando sea necesario. Algunos aspectos clave del control incluyen:
+
+Establecimiento de métricas y KPIs:
+
+Es fundamental definir métricas clave de desempeño (KPIs) que permitan medir el éxito de las campañas
+de marketing. Estas pueden incluir ventas, retorno sobre inversión (ROI), participación de mercado, coste 
+por adquisición (CPA), tasa de conversión, entre otros. Cada métrica debe estar alineada con los objetivos 
+específicos del plan de marketing.
+Monitoreo continuo:
+
+El monitoreo regular de las métricas es esencial para detectar cualquier desviación o tendencia temprana 
+que requiera atención. Esto puede hacerse utilizando herramientas de análisis web, plataformas de gestión 
+de campañas publicitarias, y otros sistemas de seguimiento de datos.
